@@ -62,5 +62,5 @@ This board takes a 5V  input, regulates it down to 3.3V, and powers both the STM
 
 ## Related
 
-- [STM32 Bare-Metal Drivers](https://github.com/KrishChalana/stm32-bare-metal-drivers) — register-level GPIO, UART, timers, ADC
-- [ADXL345 I2C/SPI Driver](#) — sensor driver used with this board
+- [STM32 Bare-Metal Drivers](https://github.com/KrishChalana/stm-32-Drivers) — register-level GPIO, UART, timers, ADC
+- [ADXL345 I2C/SPI Driver](https://github.com/KrishChalana/ADXL345-Drivers) — sensor driver used with this board
